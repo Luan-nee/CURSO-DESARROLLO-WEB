@@ -1,0 +1,76 @@
+.navegador{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  justify-content: center;
+  margin-top: 20px;
+}
+.navegador a{
+  padding: 10px;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.navegador a:nth-child(2){
+  flex-direction: row;
+  gap: 10px;
+}
+
+/*-----------------------------
+      OPCIONES PARA SHOP
+------------------------------*/
+.informacion-shop{
+  padding: 10px;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.contenedor_cabeza_opciones-shop{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 70px;
+  gap: 10px;
+}
+.opciones-shop{
+  position: absolute;
+  bottom: -105px;
+  width: 100%;
+  margin: auto;
+  left: 0;
+  right: 0;
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+}
+.opciones-shop li{
+  display: block;
+  padding: 5px;
+  background-color: rgb(233, 233, 233);
+  text-align: center;
+}
+
+.opciones-shop li:hover{
+  background-color: rgb(206, 206, 206);
+}
+
+.contenedor_cabeza_opciones-shop:hover{
+  text-decoration:underline;
+  background-color: rgb(240, 240, 240);
+}
+
+.informacion-shop:hover > .opciones-shop{
+  display: flex;
+}
+
+.navegador a:hover{
+  text-decoration:underline;
+  background-color: rgb(240, 240, 240);
+}
+
+

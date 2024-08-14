@@ -1,0 +1,118 @@
+.cabecera{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px 0px 0px 0px;
+  z-index: 1;
+}
+
+.logo_empresa{
+  font-size: 30px;
+  font-weight: bold;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.caja_de_texto{
+  height: 30px;
+  width: 320px;
+  background-color: rgb(229, 229, 229);
+
+  border-style: none;
+  border-width: 0px;
+  border-color: none;
+
+  outline: none;
+  text-align: center;
+}
+
+.contenedor_derecho{
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.btn_carrito{
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  padding: 7px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  cursor: pointer;
+}
+
+.fecha_abajo{
+  width: 8px;
+  height: 8px;
+
+  border-color: black;
+  border-width: 0px 0px 2px 2px;
+  border-style: solid;
+  transform: rotate(-45deg);
+}
+
+.informacion{
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  z-index: 1;
+}
+
+
+/*-----------------------------
+      OPCIONES DESPLEGABLES
+------------------------------*/
+.opciones{
+  position: absolute;
+
+  top: 45px;
+  width: 100%;
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.opciones li{
+  display: flex;
+  justify-content: center;
+  background-color: var(--fondo_opciones);
+  color: white;
+
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.contenedor_cabeza_opciones{
+  background-color: rgb(227, 227, 227);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  gap: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.contenedor_cabeza_opciones p{
+  text-wrap: nowrap;
+}
+
+/*-----------------------------
+      PSEUDO CLASES
+------------------------------*/
+.contenedor_cabeza_opciones:hover{
+  background-color: brown;
+  color: white;
+  font-weight: bold;
+}
+
+.contenedor_cabeza_opciones:hover div{
+  border-color: white;
+} 
+
+.informacion:hover > .opciones{
+  display: flex;
+}
