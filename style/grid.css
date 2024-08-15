@@ -86,6 +86,31 @@
   grid-column-end: 3;
 } */
 
+/*-------------------------------
+        <button></button>
+-------------------------------*/
+.btn_carrusel{
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  bottom: 10px;
+  left: 10px;
+  gap: 10px;
+}
+.btn_carrusel button{
+  width: 50px;
+  height: 10px;
+  border-style: none;
+  cursor: pointer;
+}
+
+.btn_carrusel button:nth-child(1){
+  background-color: black;
+}
+
+
+
+
 /*------------------------
         RESPONSIVE
 ------------------------*/

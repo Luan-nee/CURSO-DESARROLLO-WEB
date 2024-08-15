@@ -86,7 +86,6 @@ class PrivatePerson {
     pay() {
         this.#bank
     }
-
 }
 
 let person5 = new PrivatePerson("Brais", 37, "MoureDev", "IBAN123456789")
