@@ -1,26 +1,28 @@
-.conteiner-glider{
-  width: 600px;
-  height: 300px;
+.carrusel{
+  background-color: aquamarine;
+  width: 700px;
+  position: relative;
 }
 
-.conteiner-glider div img{
-  object-fit: cover;
-  height: 100%;
+#btn-izquierdo{
+  left: 10px;
+  top: 40%;
+}
+
+#btn-derecho{
+  right: 10px;
+  top: 40%;
 }
 
 .indicador_carrusel{
-  position: fixed;
-  top: 0px;
+  position: absolute;
+  bottom: 0px;
   left: 0px;
-  right: 0px;
-  margin: auto;
 }
 
 .indicador_carrusel button{
-  width: 40px;
   border-radius: 0px;
+  width: 100px;
+  height: 20px;
 }
-
-
-
 
