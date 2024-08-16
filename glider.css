@@ -1,0 +1,26 @@
+.conteiner-glider{
+  width: 600px;
+  height: 300px;
+}
+
+.conteiner-glider div img{
+  object-fit: cover;
+  height: 100%;
+}
+
+.indicador_carrusel{
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+}
+
+.indicador_carrusel button{
+  width: 40px;
+  border-radius: 0px;
+}
+
+
+
+
