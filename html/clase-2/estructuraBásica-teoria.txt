@@ -1,0 +1,90 @@
+/-------------------------------------------------------------------/
+            Profesor: Luan Del Sol Huillca Sánchez
+    Casa de Estudios: Universidad Nacional Amazónica de Madre de Dios
+    Carrera en estudio: Ingeniería de sistemas e informática 
+                        Semestre: 5to
+
+  contenedio hecho por Luan Del Sol Huillca Sánchez
+
+  Bibliografía: 
+
+  - CANOTE CUSTOM WEB & DESIGN
+    Publicado el 31 julio, 2020 por Víctor Sánchez
+    Actualizada el 25 abril, 2024
+    https://carontestudio.com/blog/listado-de-etiquetas-html/
+/___________________________________________________________________/
+
+La estructura básica se encuentra es:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="main.js"></script>
+</head>
+<body>
+  
+</body>
+</html>
+
+
+
+
+¿Para qué sirve: <!DOCTYPE html> ?
+
+Indica al navegador que el documento HTML está basado en el estándar HTML5,
+lo cual quiere decir que todos los elementos pertenecen la versión 5 del HTML. Esto 
+se debe a que en la versión 5 se agregaron nuevas etiquetas, algunos aportan
+valor tanto en la semantica como también otros que nos permite usar archivos
+multimedia como imagenes y audio.
+
+
+¿Para qué sirve: <html> </html> ?
+
+Representa la raíz de un documento HTML. Todos los demás elementos 
+de la estructura HTML deben ser recogidos dentro de estas etiquetas
+para que tengan valor semántico. 
+
+
+¿Para qué sirve: <head> </head> ?
+
+Representa una colección de metadatos acerca del documento, 
+incluyendo enlaces a, o definiciones de, scripts y hojas de estilo. 
+El resto de etiquetas de metadatos, irán recogidas dentro de las etiquetas 
+de apertura y cierre del head. Importante explicar que estos metadatos del 
+documento, es información para el navegador y no contenido que será visible 
+en la página web. A excepción de la etiqueta <title> que veremos a continuación.
+
+
+¿Para qué sirve: <body> </body>  ?
+
+Al contrario que la etiqueta de metadatos <head>, todo 
+lo que quieras mostrar en la página web debe ir recogido dentro de las 
+etiquetas de apertura y cierre de <body>. Este contenido será el que 
+se muestre en la web.
+
+
+¿Para qué sirve: <title> </title> ?
+
+Etiqueta usada para definir el título de la página web.
+Este titulo será visible en los resultados de nueva busqueta en internet
+por lo que su contenido es muy importante para el usuario.
+
+
+¿Para qué sirve: <link> ?
+
+Se usa para enlazar recursos externos al documento HTML. El ejemplo 
+más común son las hojas de estilos CSS o alguna librería.
+
+
+¿Para qué sirve: <meta> ?
+
+Etiqueta usada para definir otros metadatos que no se pueden 
+definir con una etiqueta HTML especifica. Por ejemplo, para definir 
+el autor del sitio, o la descripción del mismo, ejemplo:
+
+<meta name="description" content="Esta es una página web sobre una pollería.">
+<meta name="author" content="Nombre del autor">

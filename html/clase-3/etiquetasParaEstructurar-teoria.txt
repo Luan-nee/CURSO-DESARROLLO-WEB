@@ -1,0 +1,77 @@
+/-------------------------------------------------------------------/
+            Profesor: Luan Del Sol Huillca Sánchez
+    Casa de Estudios: Universidad Nacional Amazónica de Madre de Dios
+    Carrera en estudio: Ingeniería de sistemas e informática 
+                        Semestre: 5to
+
+  contenedio hecho por Luan Del Sol Huillca Sánchez
+
+  Bibliografía: 
+
+  - CANOTE CUSTOM WEB & DESIGN
+    Publicado el 31 julio, 2020 por Víctor Sánchez
+    Actualizada el 25 abril, 2024
+    https://carontestudio.com/blog/listado-de-etiquetas-html/
+/___________________________________________________________________/
+
+
+<body> </body> 
+
+Todo lo que quieras mostrar en la página web debe 
+ir dentro de las etiqueta <body>. Este contendio
+será visible para el usuario
+
+
+<nav> </nav> 
+
+Usadas para definir el contenido que será la sección 
+de navegación de la web.
+
+
+<main> </main>
+
+Se usa para definir el contenido principal del documento. 
+Solamente puede existir uno por documento.
+
+
+<section> </section> 
+
+Se utiliza para agrupar contenido relacionado dentro de 
+una página web de modo que, el contenido dentro de cada 
+uno, solo tenga sentido al realcionarlo con el contenido
+de otros elementos section.
+
+
+<article> </article> 
+
+Se utiliza para define contenido independiente de la web
+comportandose como una web externa. El contenido puede 
+estar o no relacionado a la web.
+
+
+<aside> </aside> 
+
+Dentro de estas etiquetas suele alojarse el contenido 
+adicional de la web. Suele ser contenido relacionado 
+con la web pero no forma parte del contenido. 
+Usado comunmente para anuncios o información externa 
+que tenga relación con el tema tratado en la web.
+
+
+<h1>,<h2>,<h3>,<h4>,<h5>,<h6> 
+
+Son etiquetas HTML muy importantes, ya que son usadas 
+para jerarquizar el contenido de la web. Las etiquetas 
+se usan para explicar brevemente el contenido que irá a 
+continuación.
+
+
+<header> </header> 
+
+Se usan para definir la cabecera de la página web. Suele 
+contener el logotipo, menú de navegación, etc.
+
+
+<footer> </footer>
+
+Usadas para definir el pie de página.
