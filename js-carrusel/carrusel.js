@@ -7,7 +7,8 @@ new Glider(document.querySelector('.glider'), {
     prev: '.glider-prev',
     next: '.glider-next'
   }
-});
+}
+);
 
 // window.onresize = ()=>{
 //   console.log(window.innerWidth)

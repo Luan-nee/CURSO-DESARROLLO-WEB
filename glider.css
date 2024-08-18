@@ -3,23 +3,19 @@
   width: 700px;
   position: relative;
 }
-
 #btn-izquierdo{
   left: 10px;
   top: 40%;
 }
-
 #btn-derecho{
   right: 10px;
   top: 40%;
 }
-
 .indicador_carrusel{
   position: absolute;
   bottom: 0px;
   left: 0px;
 }
-
 .indicador_carrusel button{
   border-radius: 0px;
   width: 100px;
