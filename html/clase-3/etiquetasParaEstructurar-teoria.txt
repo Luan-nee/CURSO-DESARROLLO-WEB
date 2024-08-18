@@ -44,9 +44,7 @@ de otros elementos section.
 
 <article> </article> 
 
-Se utiliza para define contenido independiente de la web
-comportandose como una web externa. El contenido puede 
-estar o no relacionado a la web.
+Se utiliza para define contenido independiente de la web.
 
 
 <aside> </aside> 

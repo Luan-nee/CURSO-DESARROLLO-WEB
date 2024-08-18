@@ -1,0 +1,27 @@
+/-------------------------------------------------------------------/
+            Profesor: Luan Del Sol Huillca Sánchez
+    Casa de Estudios: Universidad Nacional Amazónica de Madre de Dios
+    Carrera en estudio: Ingeniería de sistemas e informática 
+                        Semestre: 5to
+
+  contenedio hecho por Luan Del Sol Huillca Sánchez
+
+  Bibliografía: 
+
+  - CANOTE CUSTOM WEB & DESIGN
+    Publicado el 31 julio, 2020 por Víctor Sánchez
+    Actualizada el 25 abril, 2024
+    https://carontestudio.com/blog/listado-de-etiquetas-html/
+/___________________________________________________________________/
+
+<p> </p> Etiqueta usada para escribir párrafos de texto.
+
+<hr> Etiqueta utilizada para «romper» entre dos secciones de una web. Usada comúnmente como separador.
+
+<ol> </ol> Etiquetas para crear una lista ordenada
+
+<ul> </ul> Etiquetas para crear una lista des-ordenada
+
+<li> </li> Etiquetas que recogen el contenido de un elemento de una lista, sea ordenada o no.
+
+<div> </div> Etiqueta común utilizada para crear un contenedor genérico.
