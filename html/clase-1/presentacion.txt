@@ -1,0 +1,24 @@
+/---------------------------------------------------------/
+          Profesor: Luan Del Sol Huillca Sánchez
+  Casa de Estudios: Universidad Nacional Amazónica de Madre de Dios
+  Carrera: Ingeniería de sistemas e informática 
+                      Semestre: 5to
+
+  contenedio redactado por Luan Del Sol Huillca Sánchez
+/_________________________________________________________/
+
+HTML = HyperText Markup Language = Lenguaje de Marcas de Hipertexto
+
+¿Qué es un elemento?
+
+Un elemento HTML se distingue de otro texto en un documento mediante 
+"etiquetas", que consisten en el nombre del elemento rodeado por 
+"<" y ">". El nombre de un elemento dentro de una etiqueta no 
+distingue entre mayúsculas y minúsculas. Es decir, se puede escribir 
+en mayúsculas, minúsculas o una mezcla. Por ejemplo, la etiqueta 
+<title> se puede escribir como <Title>, <TITLE> o de cualquier 
+otra forma.
+
+
+
+
