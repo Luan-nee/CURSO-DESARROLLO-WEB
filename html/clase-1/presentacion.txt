@@ -14,7 +14,15 @@ HTML = HyperText Markup Language = Lenguaje de Marcas de Hipertexto
 
 HTML es un lenguaje de etiquetado el cual nos permite estructura
 nuestra pagina web, mejorando así el CEO como también la accesibilidad
-a nuestra pagina web.
+de nuestra pagina web.
+
+
+¿Cuál es la diferencia entre Pagina Web y Sitio Web?
+
+Una pagina web es algo estático y se centra en mostrar información, 
+mientras que un Sitio Web es dinamico, en el sentido de procesar datos, crear cuentas y principalmente 
+porque está compuesta por varias pagina web. 
+
 
 ¿Qué es un elemento?
 
@@ -24,9 +32,9 @@ Un elemento HTML se distingue de otro texto en un documento mediante
 
 El nombre de un elemento dentro de una etiqueta no 
 distingue entre mayúsculas y minúsculas. Es decir, se puede escribir 
-en mayúsculas, minúsculas o una mezcla. Por ejemplo, 
+en mayúsculas, minúsculas o una mezcla de estas. Por ejemplo, 
 
-la etiqueta <title> se puede escribir como <Title>, 
+La etiqueta <title> se puede escribir como <Title>, 
 <TITLE> o de cualquier otra forma.
 
 

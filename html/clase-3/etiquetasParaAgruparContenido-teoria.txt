@@ -14,14 +14,53 @@
     https://carontestudio.com/blog/listado-de-etiquetas-html/
 /___________________________________________________________________/
 
-<p> </p> Etiqueta usada para escribir párrafos de texto.
+¿Para qué sirve: <p> </p> ? 
 
-<hr> Etiqueta utilizada para «romper» entre dos secciones de una web. Usada comúnmente como separador.
+Es usada para contener texto.
 
-<ol> </ol> Etiquetas para crear una lista ordenada
 
-<ul> </ul> Etiquetas para crear una lista des-ordenada
+¿Para qué sirve: <hr> ? 
 
-<li> </li> Etiquetas que recogen el contenido de un elemento de una lista, sea ordenada o no.
+Utilizada para realizar un salto de linea hacia abajo de modo que 
+el elemento o el texto quede un nivel abajo. 
+Usada comúnmente como separador visible, ya que deja una linea
+que ocupa todo el ancho posible.
 
-<div> </div> Etiqueta común utilizada para crear un contenedor genérico.
+
+¿Para qué sirve: <br> ? 
+
+Al igual que <hr>, este elemento realiza un salto de linea hacia abajo
+pero no deja una linea notable como lo hacia el anterior elemento
+
+
+¿Para qué sirve: <ol> </ol> ? 
+
+Sirve para crear una lista ordenada, el contenido de esta
+lista deben estar dentro de etiquetas <li> </li>, por ejemplo:
+<ol>
+  <li>Arroz</li>
+  <li>Pollo</li>
+  <li>etc...</li>
+</ol>
+
+
+¿Para qué sirve: <ul> </ul> ? 
+
+Sirve para crear una lista des-ordenada, el contenido de esta 
+lista debe estar dentro de etiquetas <li> </li, por ejemplo:
+<ul>
+  <li>Arroz</li>
+  <li>Pollo</li>
+  <li>etc...</li>
+</ul>
+
+
+¿Para qué sirve: <li> </li> ?
+
+Sirve para definir el contenido de un elemento de una lista, sea ordenada o no.
+
+
+¿Para qué sirve: <div> </div> ?
+
+Etiqueta común utilizada para crear un contenedor genérico. 
+No aporta semántica.

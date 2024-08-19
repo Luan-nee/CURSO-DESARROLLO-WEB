@@ -18,7 +18,7 @@
 <body> </body> 
 
 Todo lo que quieras mostrar en la página web debe 
-ir dentro de las etiqueta <body>. Este contendio
+ir dentro de las etiqueta <body>. Este contenido
 será visible para el usuario
 
 

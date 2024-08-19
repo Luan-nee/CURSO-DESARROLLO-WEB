@@ -1,0 +1,38 @@
+/-------------------------------------------------------------------/
+            Profesor: Luan Del Sol Huillca Sánchez
+    Casa de Estudios: Universidad Nacional Amazónica de Madre de Dios
+    Carrera en estudio: Ingeniería de sistemas e informática 
+                        Semestre: 5to
+
+  contenedio hecho por Luan Del Sol Huillca Sánchez
+
+  Bibliografía: 
+
+  - CANOTE CUSTOM WEB & DESIGN
+    Publicado el 31 julio, 2020 por Víctor Sánchez
+    Actualizada el 25 abril, 2024
+    https://carontestudio.com/blog/listado-de-etiquetas-html/
+
+  - Páginas web HTML y hojas de estilo CSS
+    Entidades de carácter y entidades numéricas
+    Última modificación: 16 de noviembre, 2023 por Bartolomé Sintes Marco
+    https://www.mclibre.org/consultar/htmlcss/html/html-entidades-caracter.html#entidades-caracter-html4
+/___________________________________________________________________/
+
+Entidades de carácter y entidades numéricas
+
+Las Etidades nos permiten usar simbolos que no podemos
+usar de forma común en HTML debido a que su sintaxis
+entraría en conflicto con nuestros simbolos.
+
+Aca hay una tabla de todas las entidades de HTML
+https://www.mclibre.org/consultar/htmlcss/html/html-entidades-caracter.html#entidades-caracter-html4
+
+
+Tenemos etidades numéricas y entidades de caracteres
+
+ejemplo de entidades de caracter 
+                          &alpha;
+
+ejemplo de entidades numérica
+                          &#x3b1;

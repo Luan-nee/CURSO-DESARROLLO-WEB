@@ -1,0 +1,78 @@
+/-------------------------------------------------------------------/
+            Profesor: Luan Del Sol Huillca Sánchez
+    Casa de Estudios: Universidad Nacional Amazónica de Madre de Dios
+    Carrera en estudio: Ingeniería de sistemas e informática 
+                        Semestre: 5to
+
+  contenedio hecho por Luan Del Sol Huillca Sánchez
+
+  Bibliografía: 
+
+  - CANOTE CUSTOM WEB & DESIGN
+    Publicado el 31 julio, 2020 por Víctor Sánchez
+    Actualizada el 25 abril, 2024
+    https://carontestudio.com/blog/listado-de-etiquetas-html/
+/___________________________________________________________________/
+
+
+<a href="" target="" rel="" > </a> 
+
+* Etiqueta utilizada para crear hiper-enlaces en el documento HTML,
+  Esta etiqueta nos permite navegar por varios sition web con solo un 
+  click.
+
+* su atributo 'href' viene de Hypertext REFerence (Referencia de Hipervínculo).
+
+* su atributo 'target' define que pasará cuando pulsemos el contenido de la etiqueta <a>.
+  Algunos de sus valores pueden ser:
+    _blank : Abre el enlace en una nueva pestaña.
+    _self : Abre el enlace en la misma pestaña (es el valor predeterminado).
+    _parent : Abre el enlace en el marco padre si se está usando en un iframe.
+    _top : Abre el enlace en el marco superior, reemplazando cualquier marco anidado.
+
+* su atributo 'rel' especifica la relación entre el documento actual y el recurso vinculado. 
+  pero también define el propósito del enlace. Posibles valores
+    noopener : Previene que la página enlazada pueda acceder a la ventana original.
+    noreferrer : Similar a noopener, pero además no envía la información del 
+    referrer (la página de origen).
+
+
+<strong> </strong> 
+
+Etiqueta para definir una palabra o conjunto de ellas como importantes. 
+Tiene una fuerte importancia en el SEO de la página.
+
+
+<small> </small> 
+
+Utilizada para dejar un comentario aparte, del tipo una nota de derechos 
+de autoría, u otros textos que no son esenciales para la comprensión del 
+documento.
+
+
+<cite> </cite> 
+
+Para indicar el título de una obra o citar a un autor.
+
+
+<sub> </sub> y <sup> </sup> 
+
+Etiquetas utilizadas para representar un subíndice o superíndice.
+útiles en situaciones donde se necesita mostrar notaciones matemáticas, 
+químicas o científicas, pero puede ser usado para cualquier cosa.
+
+
+<mark> </mark> 
+
+Usada para resaltar texto, por defecto de color amarillo.
+
+
+<span> </span> 
+
+Etiqueta HTML sin ningún significado específico. Se usa conjuntamente 
+con los atributos "class" o "id" para atribuirle ciertas características.
+
+
+<br> 
+
+Etiqueta utilizada para crear un salto de línea
