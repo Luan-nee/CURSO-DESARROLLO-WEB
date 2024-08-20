@@ -21,14 +21,12 @@
   Esta etiqueta nos permite navegar por varios sition web con solo un 
   click.
 
-* su atributo 'href' viene de Hypertext REFerence (Referencia de Hipervínculo).
+* su atributo 'href' viene de Hypertext REFerence (Referencia de Hipervínculo)
+  y sirve para definir a donde nos enviará una vez hagamos click en ella.
 
 * su atributo 'target' define que pasará cuando pulsemos el contenido de la etiqueta <a>.
   Algunos de sus valores pueden ser:
     _blank : Abre el enlace en una nueva pestaña.
-    _self : Abre el enlace en la misma pestaña (es el valor predeterminado).
-    _parent : Abre el enlace en el marco padre si se está usando en un iframe.
-    _top : Abre el enlace en el marco superior, reemplazando cualquier marco anidado.
 
 * su atributo 'rel' especifica la relación entre el documento actual y el recurso vinculado. 
   pero también define el propósito del enlace. Posibles valores
@@ -37,13 +35,13 @@
     referrer (la página de origen).
 
 
-<strong> </strong> 
+<strong> </strong>
 
 Etiqueta para definir una palabra o conjunto de ellas como importantes. 
 Tiene una fuerte importancia en el SEO de la página.
 
 
-<small> </small> 
+  <small> </small> 
 
 Utilizada para dejar un comentario aparte, del tipo una nota de derechos 
 de autoría, u otros textos que no son esenciales para la comprensión del 
@@ -73,6 +71,6 @@ Etiqueta HTML sin ningún significado específico. Se usa conjuntamente
 con los atributos "class" o "id" para atribuirle ciertas características.
 
 
-<br> 
+<br>
 
 Etiqueta utilizada para crear un salto de línea

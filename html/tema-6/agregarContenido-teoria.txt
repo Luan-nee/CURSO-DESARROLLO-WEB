@@ -1,0 +1,44 @@
+/-------------------------------------------------------------------/
+            Profesor: Luan Del Sol Huillca Sánchez
+    Casa de Estudios: Universidad Nacional Amazónica de Madre de Dios
+    Carrera en estudio: Ingeniería de sistemas e informática 
+                        Semestre: 5to
+
+  contenedio hecho por Luan Del Sol Huillca Sánchez
+
+  Bibliografía: 
+
+  - CANOTE CUSTOM WEB & DESIGN
+    Publicado el 31 julio, 2020 por Víctor Sánchez
+    Actualizada el 25 abril, 2024
+    https://carontestudio.com/blog/listado-de-etiquetas-html/
+/___________________________________________________________________/
+
+
+
+<img> 
+
+Etiqueta para agregar una imagen en la página web.
+
+
+<video> </video> 
+
+Se usa para reproducir video en la página web junto 
+a sus archivos de audio y capciones asociadas.
+
+
+<audio> </audio> 
+
+Usada para cargar en una web un archivo de audio o 
+stream de audio.
+
+
+<source> 
+
+Permite a autores especificar recursos multimedia 
+alternativos para las etiquetas de <video> o <audio>
+
+
+<svg> </svg> 
+
+Se usa para llamar a una imagen vectorizada.
