@@ -38,7 +38,7 @@ Solamente puede existir uno por documento.
 
 Se utiliza para agrupar contenido relacionado dentro de 
 una página web de modo que, el contenido dentro de cada 
-uno, solo tenga sentido al realcionarlo con el contenido
+uno, solo tenga sentido al relacionarlo con el contenido
 de otros elementos section.
 
 

@@ -32,7 +32,7 @@ El nombre de un elemento dentro de una etiqueta no
 distingue entre mayúsculas y minúsculas. Es decir, se puede escribir 
 en mayúsculas, minúsculas o una mezcla de estas. Por ejemplo, 
 
-La etiqueta <title> se puede escribir como <Title>, 
+La etiqueta <title> se puede escribir como <Ttile>, 
 <TITLE> o de cualquier otra forma.
 
 
